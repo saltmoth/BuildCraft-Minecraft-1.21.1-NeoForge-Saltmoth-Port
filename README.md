@@ -1,4 +1,4 @@
-# BuildCraft — Minecraft 1.21.1 / NeoForge
+# BuildCraft — Minecraft 1.21.1 / NeoForge — Saltmoth Port
 
 An unofficial adaptation of **BuildCraft 7.99.24.7** by **saltmoth**, made to revisit the original pipes, engines and builders on modern Minecraft. Thank you to SpaceToad and the BuildCraft team for the original mod.
 
@@ -6,7 +6,7 @@ This repository contains the **b70 release download, player documentation and ch
 
 ## Download and installation
 
-**[Download BuildCraft b70](https://github.com/saltmoth/buildcraft-1.21.1/releases/tag/b70)** · [Changelog](CHANGELOG.md)
+**[Download BuildCraft b70](https://github.com/saltmoth/BuildCraft-Minecraft-1.21.1-NeoForge-Saltmoth-Port/releases/tag/b70)** · [Changelog](CHANGELOG.md)
 
 | Requirement | Version |
 | --- | --- |
@@ -191,4 +191,4 @@ This independent, noncommercial project was made for the joy of playing BuildCra
 
 Original code, artwork, names and notices remain subject to their authors' rights. BuildCraft's retained MPL-2.0, older MMPL, API MIT and Forge component notices are provided in [COPYING.md](COPYING.md) and bundled in the JAR. Noncommercial intent does not replace license conditions.
 
-To obtain the corresponding BuildCraft source for a released JAR, use the **[source-code request form](https://github.com/saltmoth/buildcraft-1.21.1/issues/new?template=source-request.yml)** and identify the release. Requests are fulfilled free of charge through an electronic download, under the retained component licenses. No email address or other personal information is required. See [source availability](SOURCE_OFFER.md) for the scope; IC2 and Advanced Machines are not part of this offer.
+To obtain the corresponding BuildCraft source for a released JAR, use the **[source-code request form](https://github.com/saltmoth/BuildCraft-Minecraft-1.21.1-NeoForge-Saltmoth-Port/issues/new?template=source-request.yml)** and identify the release. Requests are fulfilled free of charge through an electronic download, under the retained component licenses. No email address or other personal information is required. See [source availability](SOURCE_OFFER.md) for the scope; IC2 and Advanced Machines are not part of this offer.
