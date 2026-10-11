@@ -1,0 +1,43 @@
+BuildCraft - Minecraft 1.21.1 / NeoForge adaptation
+
+Port author and maintainer: saltmoth
+Original BuildCraft: SpaceToad, the BuildCraft team and all contributors
+
+Thank you for the original pipes, engines, builders and quarry, and for the
+work that made BuildCraft such a memorable part of Minecraft's industrial
+history. The original metadata credits SpaceToad as creator and names SpaceToad
+and the BuildCraft Team as authors. Original file-level copyright notices are
+retained throughout the source.
+
+Purpose and provenance
+This independent, noncommercial adaptation aims to preserve the original
+BuildCraft 7.99.24.7 experience as faithfully as possible on Minecraft 1.21.1.
+It was made for the joy of playing the mod again, not for profit. saltmoth
+maintains the platform adaptations and integration with IC2. That credit does
+not replace the authorship of the original mod or its contributors.
+
+Rights and status
+This is not an official BuildCraft release. No affiliation, approval or
+endorsement by the original developers is claimed. Original copyrights and
+names remain with their respective owners. Noncommercial intent does not
+replace the applicable licenses or their source-availability requirements.
+
+Licenses follow the components and original file notices:
+- LICENSE-BuildCraft-MPL-2.0.txt: Mozilla Public License 2.0.
+- LICENSE-BuildCraft-MMPL.txt: retained Minecraft Mod Public License 1.0.1.
+- LICENSE-BuildCraft-API-MIT.txt: retained API license.
+- LICENSE-Forge-LGPL-2.1.txt: retained Forge-derived component notice.
+This document does not relicense those components. The original license files
+are bundled unchanged. Corresponding port sources are included in the local
+source snapshot delivered with this build, without private development data.
+
+Original project and contributors:
+https://github.com/BuildCraft/BuildCraft
+Pinned upstream release:
+https://github.com/BuildCraft/BuildCraft/tree/7.99.24.7
+Original license texts:
+https://github.com/BuildCraft/BuildCraft/blob/7.99.24.7/LICENSE-NEW
+https://github.com/BuildCraft/BuildCraft/blob/7.99.24.7/LICENSE
+
+The credit to saltmoth covers the port adaptations and integration work only.
+All other notices and third-party terms remain applicable.
