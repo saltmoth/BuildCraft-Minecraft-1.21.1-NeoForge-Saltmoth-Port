@@ -4,7 +4,7 @@ title: "[Source request] BuildCraft b70"
 body:
   - type: markdown
     attributes:
-      value: "Request the BuildCraft source matching your JAR release. It is provided free of charge. IC2 and Advanced Machines are not included. No email address or other personal information is required."
+      value: "Request the BuildCraft source matching your JAR release. It is provided free of charge. No email address or other personal information is required."
   - type: input
     id: release
     attributes:

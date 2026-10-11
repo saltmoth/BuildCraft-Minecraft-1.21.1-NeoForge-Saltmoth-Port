@@ -2,8 +2,6 @@ BuildCraft 7.99.24.7 adapted for Minecraft Java 1.21.1 / NeoForge. Maintained by
 
 This public release includes **BuildCraft only**, with the Kinetic Accumulator, modern-depth Quarry balance and metrics, demand-based Kinesis transport, modern tank/pipe integration and terrain-aware oil presentation.
 
-**IC2 Experimental, Advanced Machines and the Electrokinetic Transducer are not included or available for download here.** Their machines, recipe extensions and EU conversion require the separately maintained private IC2 adaptation. The public guide documents BuildCraft features and omits IC2 recipe screenshots.
-
 See the [player guide](https://github.com/saltmoth/BuildCraft-Minecraft-1.21.1-NeoForge-Saltmoth-Port#readme) and [changelog](https://github.com/saltmoth/BuildCraft-Minecraft-1.21.1-NeoForge-Saltmoth-Port/blob/main/CHANGELOG.md) for recipes, interfaces, connections and limits. Install the same JAR on the client and server. Java 21; NeoForge 21.1.252 or newer for Minecraft 1.21.1.
 
 SHA-256: `534dd48fd64b285210af396e0e7ecb2797ebc18b34f7c1b55436f83de8867e3c`

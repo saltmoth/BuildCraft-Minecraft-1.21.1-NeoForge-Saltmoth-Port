@@ -6,6 +6,6 @@ The corresponding modified BuildCraft source for the executable releases distrib
 
 The source package includes the BuildCraft sources and changes corresponding to the executable, source resources, build files and applicable license notices. A matching BuildCraft-only source snapshot is preserved for each published build. No purchase, subscription or agreement beyond the applicable licenses is required.
 
-This public repository distributes JARs and player documentation; the combined development repository remains private. The offer covers BuildCraft and its modified covered components. It does **not** include unrelated private IC2 or Advanced Machines code, resources or executables.
+This public repository distributes BuildCraft JARs and player documentation. The offer covers the corresponding BuildCraft sources and modified covered components; it does not include unrelated projects.
 
 The request form does not restrict recipients' rights under the original component licenses. See [COPYING.md](COPYING.md) for the retained terms.

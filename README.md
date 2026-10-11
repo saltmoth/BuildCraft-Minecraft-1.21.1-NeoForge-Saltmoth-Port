@@ -18,9 +18,7 @@ This repository contains the **b70 release download, player documentation and ch
 
 Put the JAR in the client's and server's `mods/` folders, replacing any older BuildCraft JAR for this adaptation. Do not install a Minecraft 1.12.2 BuildCraft JAR alongside it. Back up your world before updating.
 
-**This public release includes BuildCraft only.** The Kinetic Accumulator and Quarry interface below are included and work with BuildCraft's own MJ energy system, without IC2.
-
-**IC2 Experimental, Advanced Machines and the Electrokinetic Transducer are not included or available for download in this public release.** IC2 machines, EU conversion and IC2 recipe extensions require the separately maintained private IC2 adaptation. Installing this BuildCraft JAR alone does not provide those features. They are outside this public player guide.
+**This release includes BuildCraft, the Kinetic Accumulator and the Quarry interface described below.** They work with BuildCraft's own MJ energy system.
 
 The b70 JAR's SHA-256 is recorded in [SHA256SUMS](SHA256SUMS). The JAR is unchanged by this documentation update.
 
@@ -168,7 +166,7 @@ Ordinary BuildCraft machines and pipe networks operate in **ticking chunks**.
 | Working Quarry | Keeps its own block/work area active; does not load a distant power station or its entire pipe route |
 | Finished Quarry | Releases its work-area tickets and preserves completion across reloads |
 
-A distant engine station and its pipe route must also remain in ticking chunks, through normal player activity or a separately installed compatible chunk-loading solution. Loading only the Quarry is insufficient for a remote factory. This public BuildCraft release does not include the private IC2 Chunk Loader.
+A distant engine station and its pipe route must also remain in ticking chunks, through normal player activity or a separately installed compatible chunk-loading solution. Loading only the Quarry is insufficient for a remote factory.
 
 Chunk loading works while the world/server is running. It does not simulate production while a singleplayer world is closed or the server is stopped.
 
@@ -185,10 +183,10 @@ Setting `quarryNormalizeExtendedDepth = false` restores the original mining/dril
 
 ## Credits and source requests
 
-**Adaptation author and maintainer: saltmoth.** Original BuildCraft by **SpaceToad, the BuildCraft team and its contributors**. See the [retained credits](AUTHORS.txt) and [upstream project](https://github.com/BuildCraft/BuildCraft). The separately maintained private IC2 integration builds on **Alblaka and the IC2 development team's** original energy systems; IC2 is not included here and no ownership of their work is claimed.
+**Adaptation author and maintainer: saltmoth.** Original BuildCraft by **SpaceToad, the BuildCraft team and its contributors**. See the [retained credits](AUTHORS.txt) and [upstream project](https://github.com/BuildCraft/BuildCraft).
 
 This independent, noncommercial project was made for the joy of playing BuildCraft on Minecraft 1.21.1 and aims to preserve the original experience as faithfully as practical after Minecraft's architectural changes. It is **not an official release** and does not claim approval or endorsement by the original teams.
 
 Original code, artwork, names and notices remain subject to their authors' rights. BuildCraft's retained MPL-2.0, older MMPL, API MIT and Forge component notices are provided in [COPYING.md](COPYING.md) and bundled in the JAR. Noncommercial intent does not replace license conditions.
 
-To obtain the corresponding BuildCraft source for a released JAR, use the **[source-code request form](https://github.com/saltmoth/BuildCraft-Minecraft-1.21.1-NeoForge-Saltmoth-Port/issues/new?template=source-request.yml)** and identify the release. Requests are fulfilled free of charge through an electronic download, under the retained component licenses. No email address or other personal information is required. See [source availability](SOURCE_OFFER.md) for the scope; IC2 and Advanced Machines are not part of this offer.
+To obtain the corresponding BuildCraft source for a released JAR, use the **[source-code request form](https://github.com/saltmoth/BuildCraft-Minecraft-1.21.1-NeoForge-Saltmoth-Port/issues/new?template=source-request.yml)** and identify the release. Requests are fulfilled free of charge through an electronic download, under the retained component licenses. No email address or other personal information is required. See [source availability](SOURCE_OFFER.md) for the scope.

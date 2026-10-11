@@ -13,7 +13,7 @@ Purpose and provenance
 This independent, noncommercial adaptation aims to preserve the original
 BuildCraft 7.99.24.7 experience as faithfully as possible on Minecraft 1.21.1.
 It was made for the joy of playing the mod again, not for profit. saltmoth
-maintains the platform adaptations and integration with IC2. That credit does
+maintains the platform adaptations and modern Minecraft integration. That credit does
 not replace the authorship of the original mod or its contributors.
 
 Rights and status
