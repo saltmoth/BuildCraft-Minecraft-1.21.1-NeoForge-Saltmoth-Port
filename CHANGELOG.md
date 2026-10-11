@@ -6,13 +6,14 @@ These notes cover player-visible changes from BuildCraft 7.99.24.7 for Minecraft
 
 - English mod-list description, saltmoth adaptation credit and retained original author/license notices.
 - Release documentation includes the new recipes, cropped machine interfaces, technical limits and connection rules.
-- Gameplay code, textures and data are unchanged from b69.
+- Standalone public build: optional cross-mod adapters removed; native BuildCraft item, fluid and MJ interfaces retained.
+- Release filename: `buildcraft-7.99.24.7-saltmoth-port-mc1.21.1-neoforge-b70.jar`.
 
 ### Additions and changes included in b70
 
 - **Kinetic Accumulator:** 1,000,000 MJ storage, a shared 64 MJ/t input limit and 64 MJ/t output limit, three inputs, two outputs and a closed front display. Wooden Kinesis Pipes are required for extraction.
 - Compact Accumulator and Quarry interfaces show reserves, actual throughput, status and tooltips. The Accumulator has seven redstone modes, comparator output and quiet activity audio.
-- Compatible wrench pickup preserves the Accumulator's stored MJ. Rotation and face previews follow its port layout.
+- BuildCraft wrench pickup preserves the Accumulator's stored MJ. Rotation and face previews follow its port layout.
 - Quarry mining and drill movement account for modern below-zero depth through a configurable cost factor. Hard energy, task and movement ceilings prevent reconnection bursts from exceeding the work limits.
 - Quarry arm/laser render bounds and interior visibility corrected. Finished Quarries stop requesting energy and release work-area chunk tickets while retaining their completion state.
 - Kinesis transport is demand-based: pipes have no persistent MJ reserve, and sources pay only for accepted delivery. Cutting/reconnecting long networks or rotating sources rebuilds routing without reviving stored pipe energy.

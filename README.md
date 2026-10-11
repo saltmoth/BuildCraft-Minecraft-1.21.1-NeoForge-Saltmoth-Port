@@ -13,14 +13,14 @@ This repository contains the **b70 release download, player documentation and ch
 | Minecraft Java Edition | 1.21.1 |
 | Java | 21 |
 | Mod loader | NeoForge 21.1.252 or newer in the 1.21.1 series |
-| File | `buildcraft-7.99.24.7-mc1.21.1-neoforge-b70.jar` |
+| File | `buildcraft-7.99.24.7-saltmoth-port-mc1.21.1-neoforge-b70.jar` |
 | Optional recipe viewer | JEI for Minecraft 1.21.1 / NeoForge |
 
 Put the JAR in the client's and server's `mods/` folders, replacing any older BuildCraft JAR for this adaptation. Do not install a Minecraft 1.12.2 BuildCraft JAR alongside it. Back up your world before updating.
 
 **This release includes BuildCraft, the Kinetic Accumulator and the Quarry interface described below.** They work with BuildCraft's own MJ energy system.
 
-The b70 JAR's SHA-256 is recorded in [SHA256SUMS](SHA256SUMS). The JAR is unchanged by this documentation update.
+The b70 JAR's SHA-256 is recorded in [SHA256SUMS](SHA256SUMS). This is the standalone public build.
 
 ## Original documentation
 
@@ -73,7 +73,7 @@ With a horizontal orientation, the main output is opposite the front and the sec
 
 Extra ports make routing easier; they do not multiply the rate. Several BuildCraft MJ sources can share the inputs, but this single battery still accepts and outputs at most 64 MJ/t. A network offering 96 MJ/t cannot make this battery transfer 96 MJ/t.
 
-Flow is averaged over **20 ticks** to make intermittent deliveries readable. A comparator reports the charge level. **Sneak-use a supported wrench to pick up the block with its stored MJ**; the charged item can then be placed again. The redstone mode resets when it is placed from the item.
+Flow is averaged over **20 ticks** to make intermittent deliveries readable. A comparator reports the charge level. **Sneak-use the BuildCraft wrench to pick up the block with its stored MJ**; the charged item can then be placed again. The redstone mode resets when it is placed from the item.
 
 ### Interface
 
