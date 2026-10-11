@@ -2,11 +2,11 @@
 
 An unofficial adaptation of **BuildCraft 7.99.24.7** by **saltmoth**, made to revisit the original pipes, engines and builders on modern Minecraft. Thank you to SpaceToad and the BuildCraft team for the original mod.
 
-This repository contains the **b70 release download, player documentation and changelog**. It describes the additions and deliberate changes from the original Minecraft 1.12.2 release; unchanged recipes are omitted.
+This repository contains the **player documentation and changelog for build b70**. It describes the additions and deliberate changes from the original Minecraft 1.12.2 release; unchanged recipes are omitted.
 
-## Download and installation
+## Release status and installation
 
-**[Download BuildCraft b70](https://github.com/saltmoth/buildcraft-1.21.1/releases/tag/b70)** · [Changelog](CHANGELOG.md)
+**Public binary distribution is currently paused.** No public JAR download is provided here. The guide below documents build b70. See the [changelog](CHANGELOG.md).
 
 | Requirement | Version |
 | --- | --- |
@@ -20,7 +20,7 @@ Put the JAR in the client's and server's `mods/` folders, replacing any older Bu
 
 BuildCraft can run without IC2. The **Electrokinetic Transducer belongs to the matching IC2 Experimental adaptation**, and is documented here as an optional bridge; it is not included in this BuildCraft JAR. This repository does not distribute IC2 or Advanced Machines.
 
-The b70 JAR's SHA-256 is recorded in [SHA256SUMS](SHA256SUMS). It is the same sealed artifact used for the release documentation, not a new build.
+The documented b70 artifact's SHA-256 is recorded in [SHA256SUMS](SHA256SUMS) for reference. This documentation update does not change that build.
 
 ## Original documentation
 
@@ -38,7 +38,7 @@ All images below are in-game captures, cropped to the recipe panel or machine in
 - [Oil generation](#oil-generation)
 - [Keeping an industry running](#keeping-an-industry-running)
 - [Configuration](#configuration)
-- [Credits and source availability](#credits-and-source-availability)
+- [Credits and original rights](#credits-and-original-rights)
 
 
 
@@ -261,12 +261,10 @@ A singleplayer world also uses its own `serverconfig/` folder. `defaultconfigs/`
 
 Setting `quarryNormalizeExtendedDepth = false` restores the original mining/drill cost scaling. Configured speed limits can reduce the ceilings; increasing them does not bypass the hard per-tick safeguards.
 
-## Credits and source availability
+## Credits and original rights
 
 **Adaptation author and maintainer: saltmoth.** Original BuildCraft by **SpaceToad, the BuildCraft team and its contributors**. See the [retained credits](AUTHORS.txt) and [upstream project](https://github.com/BuildCraft/BuildCraft). The optional adapter builds on **Alblaka and the IC2 development team's** original energy systems; no ownership of their work is claimed.
 
 This independent, noncommercial project was made for the joy of playing BuildCraft on Minecraft 1.21.1 and aims to preserve the original experience as faithfully as practical after Minecraft's architectural changes. It is **not an official release** and does not claim approval or endorsement by the original teams.
 
 Original code, artwork, names and notices remain subject to their authors' rights. BuildCraft's retained MPL-2.0, older MMPL, API MIT and Forge component notices are provided in [COPYING.md](COPYING.md) and bundled in the JAR. Noncommercial intent does not replace license conditions.
-
-**Corresponding BuildCraft source is available free of charge on request.** Open a [source request](https://github.com/saltmoth/buildcraft-1.21.1/issues/new?template=source-request.yml) and identify release **b70**. The offer covers the source and changes corresponding to the executable, with the build files and applicable notices. It does not include unrelated private IC2 work. See [SOURCE_OFFER.md](SOURCE_OFFER.md).

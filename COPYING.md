@@ -7,4 +7,4 @@ The executable retains the licenses of its original components. This document do
 - [BuildCraft API MIT license](licenses/LICENSE-BuildCraft-API-MIT.txt).
 - [Forge GNU Lesser General Public License 2.1](licenses/LICENSE-Forge-LGPL-2.1.txt): retained Forge-derived components.
 
-Original file notices remain authoritative. The same texts are bundled in the JAR. See [AUTHORS.txt](AUTHORS.txt) for attribution and [SOURCE_OFFER.md](SOURCE_OFFER.md) for corresponding source availability.
+Original file notices remain authoritative. The same texts are bundled in the JAR. See [AUTHORS.txt](AUTHORS.txt) for attribution.

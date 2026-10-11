@@ -1,6 +1,6 @@
 # Changelog
 
-These notes cover player-visible changes from BuildCraft 7.99.24.7 for Minecraft 1.12.2. The published executable is **b70** for Minecraft 1.21.1 / NeoForge.
+These notes cover player-visible changes from BuildCraft 7.99.24.7 for Minecraft 1.12.2. The documented build is **b70** for Minecraft 1.21.1 / NeoForge. Its public binary download is currently paused.
 
 ## b70 — 2026-10-11
 

@@ -6,4 +6,4 @@ See the [player guide](https://github.com/saltmoth/buildcraft-1.21.1#readme) and
 
 SHA-256: `534dd48fd64b285210af396e0e7ecb2797ebc18b34f7c1b55436f83de8867e3c`
 
-Unofficial, noncommercial adaptation. Original notices are retained. **Corresponding BuildCraft source is available free of charge on request:** [request source](https://github.com/saltmoth/buildcraft-1.21.1/issues/new?template=source-request.yml), [source offer](https://github.com/saltmoth/buildcraft-1.21.1/blob/main/SOURCE_OFFER.md).
+Unofficial, noncommercial adaptation. Original notices are retained. Public binary distribution is currently paused; this release remains a draft.
